@@ -1,7 +1,7 @@
-| Environment | Domain                          | Status |
-|-------------|---------------------------------|--------|
-| Dev         | https://dev-vietnamairlines.com | Ready  | 
-| Prod        | https://vietnamairlines.com     | Ready  |
+| Environment | Domain                   | Status |
+|-------------|--------------------------|--------|
+| Dev         | https://dev-airlines.com | Ready  | 
+| Prod        | https://airlines.com     | Ready  |
 
 
 # Content
